@@ -50,4 +50,4 @@ Ready to discuss your next project? Contact the M-Tech team today!
 
 ---
 
-*M-Tech: Building Your Digital Future, Everywhere.*
+*M-Tech: Engineering Tomorrow. Automating Today..*
