@@ -46,11 +46,11 @@ While we remain platform-agnostic, we leverage modern, industry-standard technol
 
 ## 📞 Get In Touch
 
-Ready to discuss your next project? Contact the M-Tech team today!
+Ready to discuss your next project? Contact the **M-Tech** team today!
 
 ✉️ **Email:**  [mtechltd2021@gmail.com](mtechltd2021@gmail.com)     
 🌐 **Web:** [https://m-tech-org.github.io](https://m-tech-org.github.io)
 
 ---
 
-since 2021 &copy; *M-Tech: Engineering Tomorrow. Automating Today.*
+since 2021 &copy; ***M-Tech** - Engineering Tomorrow. Automating Today.*
