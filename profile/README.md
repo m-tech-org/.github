@@ -17,9 +17,10 @@ To empower businesses of all sizes by providing high-quality, scalable, and reli
 | Category | Description | Key Features |
 | :--- | :--- | :--- |
 | **Web Applications** | Cutting-edge, responsive web solutions, from simple informational sites to complex, data-driven SaaS platforms. | Scalability, modern frameworks, cross-browser compatibility. |
-| **Mobile Applications** | Native and cross-platform development for iOS and Android devices. | Intuitive UX/UI, performance optimization, integration with device features. |
 | **Desktop Applications** | Robust, high-performance software tailored for Windows, macOS, or Linux environments. | Offline functionality, local data management, system integration. |
 | **Online/Offline Sync Solutions** | Specialized applications designed to function effectively with intermittent or zero internet connectivity, ensuring data integrity upon reconnection. | Data synchronization logic, local database management, resilient architecture. |
+
+[//]: # (| **Mobile Applications** | Native and cross-platform development for iOS and Android devices. | Intuitive UX/UI, performance optimization, integration with device features. |)
 
 ---
 
@@ -29,8 +30,9 @@ While we remain platform-agnostic, we leverage modern, industry-standard technol
 
 * **Backend:** Java (SpringBoot), PHP (Laravel), Go, Python (Django/Flask), Node.js
 * **Frontend/Web:** ThymeLeaf, React, HTML5/CSS3
-* **Mobile:** React Native, Flutter, Swift/Kotlin (Native)
 * **Databases:** PostgreSQL, MySQL, MongoDB
+
+[//]: # (* **Mobile:** React Native, Flutter, Swift/Kotlin &#40;Native&#41;)
 
 ---
 
@@ -46,8 +48,9 @@ While we remain platform-agnostic, we leverage modern, industry-standard technol
 
 Ready to discuss your next project? Contact the M-Tech team today!
 
-* **Email:** [mtechltd2021@gmail.com]
+✉️ **Email:**  [mtechltd2021@gmail.com](mtechltd2021@gmail.com)     
+🌐 **Web:** [https://m-tech-org.github.io](https://m-tech-org.github.io)
 
 ---
 
-*M-Tech: Engineering Tomorrow. Automating Today..*
+since 2021 &copy; *M-Tech: Engineering Tomorrow. Automating Today.*
