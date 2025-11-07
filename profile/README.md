@@ -100,9 +100,12 @@
 
 ### 🔄 Agile Methodology
 
-Discovery & Planning → 2. Design & Prototyping → 3. Development → 4. Testing → 5. Deployment → 6. Support & Maintenance
+```
 
-text
+1. Discovery & Planning → 2. Design & Prototyping → 3. Development → 4. Testing → 5. Deployment → 6. Support & Maintenance
+
+```
+
 
 ### ✅ Quality Assurance
 - **Automated Testing:** Comprehensive test suites for reliability
