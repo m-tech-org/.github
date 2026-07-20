@@ -11,8 +11,6 @@
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/Established-2021-blue?style=for-the-badge" alt="Established 2021">
-    <a href="https://github.com/m-tech-org/laravel-gitstamp/actions/workflows/run-tests.yml"><img src="https://github.com/m-tech-org/laravel-gitstamp/actions/workflows/run-tests.yml/badge.svg?style=for-the-badge" alt="laravel-gitstamp tests"></a>
-    <a href="https://github.com/m-tech-org/laravel-gitstamp/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License"></a>
   </p>
 
 </div>
@@ -36,6 +34,7 @@ A Laravel package that stamps a deploy-time version (date + short git SHA) so yo
 <p>
   <a href="https://github.com/m-tech-org/laravel-gitstamp/actions/workflows/run-tests.yml"><img src="https://github.com/m-tech-org/laravel-gitstamp/actions/workflows/run-tests.yml/badge.svg" alt="run-tests"></a>
   <a href="https://github.com/m-tech-org/laravel-gitstamp/actions/workflows/code-quality.yml"><img src="https://github.com/m-tech-org/laravel-gitstamp/actions/workflows/code-quality.yml/badge.svg" alt="code-quality"></a>
+  <a href="https://github.com/m-tech-org/laravel-gitstamp/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License"></a>
 </p>
 
 CI-tested across Laravel 10–12 (PHP ^8.1), with Laravel 9 supported at runtime. MIT licensed.
@@ -66,8 +65,6 @@ Telegram bot that turns a private Telegram channel into free file storage — Go
 
 ### Crypto Signal Trading Bot
 Java bot that detects chart-pattern breakout signals on Binance and executes trades against a profit target.
-
-Also public: [pharmacy-management-system](https://github.com/m-tech-org/pharmacy-management-system) (PHP/MySQL pharmacy inventory & sales) · [fracture_dip_angle](https://github.com/m-tech-org/fracture_dip_angle) (Python tool measuring fracture dip angle on drill-core photos).
 
 <br>
 
