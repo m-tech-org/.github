@@ -5,7 +5,7 @@
   <h1>🚀 M-Tech: Engineering Tomorrow. Automating Today.</h1>
 
   <p>
-    <em>Boutique software engineering — PHP/Laravel, Java/Spring Boot, Python, and React, built to fintech-grade reliability.</em>
+    <em>Morph Technologies — boutique software engineering — PHP/Laravel, Java/Spring Boot, Python, and React, built to fintech-grade reliability.</em>
   </p>
 
   <!-- Badges -->
@@ -19,7 +19,7 @@
 
 ## 🌟 About M-Tech
 
-**M-Tech** is a boutique software engineering shop specializing in web delivery (Laravel, Spring Boot, Django/FastAPI, React), backend & API engineering (PHP, Java, Python), and system modernization — from company portfolio sites and e-commerce to custom business solutions, built with fintech-grade reliability and senior-level craftsmanship, without an agency layer in between.
+**M-Tech** (Morph Technologies) is a boutique software engineering shop specializing in web delivery (Laravel, Spring Boot, Django/FastAPI, React), backend & API engineering (PHP, Java, Python), and system modernization — from company portfolio sites and e-commerce to custom business solutions, built with fintech-grade reliability and senior-level craftsmanship, without an agency layer in between.
 
 ### 💡 Our Mission
 > High-quality, reliable software delivered directly by the engineer who builds it — no handoffs, no juniors learning on your codebase.
@@ -132,6 +132,7 @@ Happy to discuss how M-Tech can help bring your idea to life.
 - **Email:** [mtechltd2021@gmail.com](mailto:mtechltd2021@gmail.com)
 - **Website:** [m-tech-org.github.io](https://m-tech-org.github.io)
 - **GitHub:** [github.com/m-tech-org](https://github.com/m-tech-org)
+- **LinkedIn:** [linkedin.com/company/mtechltdbd](https://www.linkedin.com/company/mtechltdbd/)
 
 <br>
 
@@ -139,6 +140,7 @@ Happy to discuss how M-Tech can help bring your idea to life.
 
 [![Contact Us](https://img.shields.io/badge/Contact_Us-Today-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtechltd2021@gmail.com)
 [![Visit Website](https://img.shields.io/badge/Visit_Website-m--tech--org.github.io-green?style=for-the-badge&logo=google-chrome)](https://m-tech-org.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M--Tech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/mtechltdbd/)
 
 ---
 
