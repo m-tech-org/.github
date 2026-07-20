@@ -28,8 +28,9 @@
 
 <br>
 
-## 📦 Flagship Package: laravel-gitstamp
+## 📦 Products
 
+### laravel-gitstamp
 A Laravel package that stamps a deploy-time version (date + short git SHA) so you can display exactly what's running in production without SSH access or shelling out to git on every request.
 
 <p>
@@ -41,13 +42,32 @@ CI-tested across Laravel 10–12 (PHP ^8.1), with Laravel 9 supported at runtime
 
 **[View on GitHub →](https://github.com/m-tech-org/laravel-gitstamp)**
 
+### google-drive-backup-utility
+Open-core backup tool — schedules compressed backups of files and databases straight to your own Google Drive, no third-party cloud middleman. Free, source-available core; Pro tier adds database backup, encryption, retention, and failure alerts.
+
+**[Free core →](https://github.com/m-tech-org/google-drive-backup-utility-core)** · **[Pro on Gumroad →](https://gumroad.com/products/google-drive-backup-utility)**
+
 <br>
 
 ## 🏗️ Delivered Work
 
 ### Aerotia International
-- **Corporate Website** — built with Laravel and React/TypeScript.
+- **Corporate Website** — [aerotia.com](https://aerotia.com), a CMS-backed dynamic website built with Laravel and React/TypeScript.
 - **Accounting Portal** — internal ledger/accounting admin tool tracking organizations, projects, and project costs. Built with Laravel 9, and integrates M-Tech's own [laravel-gitstamp](https://github.com/m-tech-org/laravel-gitstamp) for deploy version tracking.
+
+### School Transport Management Platform
+Multi-tenant SaaS platform for school transport operators — parents book and pay online, admins run role-based portals. Go microservices (gRPC + Kafka), React admin portal, live GPS trip tracking. In active development.
+
+### HRMACS — HR Management & Access Control
+Modular Laravel RBAC system (users, roles, permissions) built as reusable, isolated modules for larger HRMS builds.
+
+### VaultAGramBot
+Telegram bot that turns a private Telegram channel into free file storage — Go, Postgres, Redis, JWT-secured admin API, worker-queue architecture, longpoll/webhook delivery modes.
+
+### Crypto Signal Trading Bot
+Java bot that detects chart-pattern breakout signals on Binance and executes trades against a profit target.
+
+Also public: [pharmacy-management-system](https://github.com/m-tech-org/pharmacy-management-system) (PHP/MySQL pharmacy inventory & sales) · [fracture_dip_angle](https://github.com/m-tech-org/fracture_dip_angle) (Python tool measuring fracture dip angle on drill-core photos).
 
 <br>
 
