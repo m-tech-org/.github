@@ -46,22 +46,29 @@ Open-core backup tool — schedules compressed backups of files and databases st
 
 **[Free core →](https://github.com/m-tech-org/google-drive-backup-utility-core)** · **[Pro on Gumroad →](https://gumroad.com/products/google-drive-backup-utility)**
 
+### HRMACS — HR Management & Access Control
+Modular Laravel RBAC system (users, roles, permissions) built as reusable, isolated modules for larger HRMS builds.
+
+**[View on GitHub →](https://github.com/m-tech-org/hrmacs)**
+
+### VaultAGramBot
+Telegram bot that turns a private Telegram channel into free file storage — Go, Postgres, Redis, JWT-secured admin API, worker-queue architecture, longpoll/webhook delivery modes.
+
+**[View on GitHub →](https://github.com/m-tech-org/VaultAGramBot)**
+
 <br>
 
 ## 🏗️ Delivered Work
 
 ### Aerotia International
 - **Corporate Website** — [aerotia.com](https://aerotia.com), a CMS-backed dynamic website built with Laravel and React/TypeScript.
+- **Website CMS** — the Laravel + Blade admin panel content editors use to manage the corporate website (home, about, capabilities, clients, blog, contact settings) without redeploying the frontend.
+  Demo CMS: [dev-cms.aerotiaint.com](https://dev-cms.aerotiaint.com/) — `test@aerotiaint.com` / `Cms@123@test1234` · Demo Website: [dev-web.aerotiaint.com](https://dev-web.aerotiaint.com/)
 - **Accounting Portal** — internal ledger/accounting admin tool tracking organizations, projects, and project costs. Built with Laravel 9, and integrates M-Tech's own [laravel-gitstamp](https://github.com/m-tech-org/laravel-gitstamp) for deploy version tracking.
+  Demo: [mtech-accounting.freedev.app/admin/login](https://mtech-accounting.freedev.app/admin/login) — `aerotia_operator` / `operator@123`
 
 ### School Transport Management Platform
 Multi-tenant SaaS platform for school transport operators — parents book and pay online, admins run role-based portals. Go microservices (gRPC + Kafka), React admin portal, live GPS trip tracking. In active development.
-
-### HRMACS — HR Management & Access Control
-Modular Laravel RBAC system (users, roles, permissions) built as reusable, isolated modules for larger HRMS builds.
-
-### VaultAGramBot
-Telegram bot that turns a private Telegram channel into free file storage — Go, Postgres, Redis, JWT-secured admin API, worker-queue architecture, longpoll/webhook delivery modes.
 
 ### Crypto Signal Trading Bot
 Java bot that detects chart-pattern breakout signals on Binance and executes trades against a profit target.
