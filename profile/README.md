@@ -46,15 +46,10 @@ Open-core backup tool — schedules compressed backups of files and databases st
 
 **[Free core →](https://github.com/m-tech-org/google-drive-backup-utility-core)** · **[Pro on Gumroad →](https://gumroad.com/products/google-drive-backup-utility)**
 
-### HRMACS — HR Management & Access Control
-Modular Laravel RBAC system (users, roles, permissions) built as reusable, isolated modules for larger HRMS builds.
+### fracture_dip_angle
+Computer-vision tool that measures structural-geology fracture dip angle (α) on diamond drill-core photos — rectifies and cylindrically unwraps the core surface from clicked rail points, fits a 3-D plane via SVD to a digitized fracture trace, and renders the result in an Open3D viewer.
 
-**[View on GitHub →](https://github.com/m-tech-org/hrmacs)**
-
-### VaultAGramBot
-Telegram bot that turns a private Telegram channel into free file storage — Go, Postgres, Redis, JWT-secured admin API, worker-queue architecture, longpoll/webhook delivery modes.
-
-**[View on GitHub →](https://github.com/m-tech-org/VaultAGramBot)**
+**[View on GitHub →](https://github.com/m-tech-org/fracture_dip_angle)**
 
 <br>
 
